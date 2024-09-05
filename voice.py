@@ -227,7 +227,7 @@ while True:
     elif "who are you" in query:
             speak("I am your virtual assistant ")
 
-    elif "open gmail" in query or "send a mail" in query:
+      elif "open gmail" in query or "send a mail" in query:
             speak("Here you go with gmail")
             speak("Press 'q' to quit from the gmail page")
             print("Press 'q' to quit from the gmail page")
